@@ -110,6 +110,16 @@ You will need access to a computer capable of running modern digital art softwar
 
 There is no specifically required software for this course. Instead, it is assumed that you will use the tools that make the most sense to your artistic process and desires. Where possible, you are encouraged to leverage departmental resources. However, as a graduate student, you may also need to make investments in tools and technologies throughout this course and your degree.
 
+#### Reference Management Software
+
+I suggest you start using a reference management software package of some sort. 
+
+Suggested:
+
+- Mendeley
+- EndNote
+- RefWorks
+
 
 
 
