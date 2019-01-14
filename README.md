@@ -50,9 +50,9 @@ This course will focus primarily on art-based research methods and how they can 
 
 ## Week 1
 
-[Course Overview](./Content/week1/)
-
-
+- [Course Overview](./Content/week1/)
+- [Syllabus](./Syllabus.md)
+- Central Questions to the Course
 
 ## Week 2
 
