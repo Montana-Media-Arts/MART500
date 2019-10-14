@@ -23,6 +23,7 @@ This course explores the relationship between aesthetics and the emerging capabi
 This course will focus primarily on art-based research methods and how they can be used within the artistic process.
 
 
+<!--
 
 ---
 
@@ -113,3 +114,5 @@ Discussion of;
 
 
 ## Week 14
+
+-->
