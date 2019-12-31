@@ -92,7 +92,9 @@ There are no pre-reqs for this course. This course is restricted to Media Arts M
 
 ### Books
 
-I am going to ask you to purchase a number of texts this semester that relate to the topics of arts-based research and experimental art.
+We will work through the following book as a class:
+
+Smith, Hazel, and Roger T. Dean. 2009. “Introduction: Practice-Led Research, Research-Led Practice – Towards the Iterative Cyclic Web.” In Practice-Led Research, Research-Led Practice in the Creative Arts (Research Methods for the Arts and the Humanities), edited by Hazel Smith and Roger T Dean, 1–38. Edinburgh University Press.
 
 #### Recommended Books
 
