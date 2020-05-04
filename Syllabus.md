@@ -1,6 +1,6 @@
 
 
-# Core Research: Digital Technology in the Arts | MART 500</br>Syllabus
+# Core Research: Digital Technology in the Arts (MART 500) | Syllabus
 
 
 Date modified: Jan-13-2019
@@ -38,10 +38,13 @@ Date modified: Jan-13-2019
 
 ## Basic Info
 
-- Location: McGill 228
-- Meeting Time: Mondays 10:00AM - 1:00PM
-- Credits: 4
+- Name: Core Research
+- Course Number: MART 500
 - CRN: 35116
+- Credits: 3
+- Location: McGill 228
+- Date/Time: W, 1:00pm-4:00pm
+
 
 ## Professor/Instructor
 
@@ -96,7 +99,10 @@ I am going to ask you to purchase a number of texts this semester that relate to
 
 #### Recommended Books
 
-_Academie X – Lessons in Art + Life_ by Marina Abramovic, Hans Ulrich Obrist, Dan Graham, and Studio Rags Media Collective (with content provided by 36 contemporary artists)
+- _Practice-Led Research, Research-Led Practice in the Creative Arts: Research Methods for the Arts and Humanities._ by Hazel Smith and Roger T. Dean, editors. Edinburgh University Press, 2009.
+	- We will read extensively from this book. But I will make it available via the library if you want.
+- _Academie X – Lessons in Art + Life_ by Marina Abramovic, Hans Ulrich Obrist, Dan Graham, and Studio Rags Media Collective (with content provided by 36 contemporary artists)
+	- We will seldom read from this book.
 
 ### Other Texts
 
@@ -104,7 +110,7 @@ There will be a number of texts (conference/journal articles) assigned throughou
 
 ### Computer
 
-You will need access to a computer capable of running modern digital art software, including but not limited to; video editing, digital audio workstation (daw), code, game engines, etc. This computer should also be capable of real-time signal processing through analog inputs and outputs (i.e., using an audio interface or web cam). Please leverage departmental resources whenever necessary.
+You will need access to a computer capable of running modern digital art software, including but not limited to; video editing, digital audio workstation (DAW), code, game engines, etc. This computer should also be capable of real-time signal processing through analog inputs and outputs (i.e., using an audio interface or web cam). Please leverage departmental resources whenever necessary.
 
 ### Software
 
@@ -131,7 +137,7 @@ Student work and progress will be assessed through:
 
 - In-class discussions and critiques
     - You are expected to engage with class discussions about technical and artistic issues.
-    - You are expected to engage with class discussions about outside readings and listenings.
+    - You are expected to engage with class discussions about outside readings, viewing, and/or listenings.
     - This is mostly what this class will be about. So this part is critical.
     - You are expected to engage in class critique days.
 - Projects
@@ -213,7 +219,7 @@ Students are expected to adhere to academic conduct policies of the University o
 
 Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
 
-Plagiarism is the presentation of the work of another without acknowledgement. As defined by the [University of Montana’s Student Conduct Code](http://www.umt.edu/vpsa/policies/default.php), plagiarism is “Representing another person's words, ideas, data, or materials as one's own.”  Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
+Plagiarism is the presentation of the work of another without acknowledgment. As defined by the [University of Montana’s Student Conduct Code](http://www.umt.edu/vpsa/policies/default.php), plagiarism is “Representing another person's words, ideas, data, or materials as one's own.”  Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
 
 Students who cheat or plagiarize will receive academic sanctions, which may include an “F” grade on the assignment, examination, and/or in the course. Students will also be reported to the Dean of Students for possible further disciplinary action.
 
@@ -254,3 +260,5 @@ The University of Montana assures equal access to instruction through collaborat
 I reserve the right to change the intended content of this course throughout the semester. This may be done to adjust for the speed of the class, to better meet educational goals, or to account for changes in technology.
 
 ---
+
+
