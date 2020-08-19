@@ -41,5 +41,6 @@ We will have a brief discussion of these today, and then revisit throughout the 
 
 ## for Next Week
 
-- R. Lyle Skains (2018) Creative Practice as Research: Discourse on Methodology, Media Practice and Education, 19:1, 82-97, DOI: 10.1080/14682753.2017.1362175
-    - [https://doi.org/10.1080/14682753.2017.1362175](https://doi.org/10.1080/14682753.2017.1362175)
+- [OECD (2015), _Frascati Manual 2015: Guidelines for Collecting and Reporting Data on Research and Experimental Development, The Measurement of Scientific, Technological and Innovation Activities_, OECD Publishing, Paris, https://doi.org/10.1787/9789264239012-en.](https://www.oecd.org/publications/frascati-manual-2015-9789264239012-en.htm)
+  - Read chapter 2
+- [Firestone, William A. “Meaning in Method: The Rhetoric of Quantitative and Qualitative Research.” Educational Researcher, vol. 16, no. 7, 1987, pp. 16–21. JSTOR, www.jstor.org/stable/1174685. Accessed 19 Aug. 2020.](https://www-jstor-org.weblib.lib.umt.edu:2443/stable/1174685)
