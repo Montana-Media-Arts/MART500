@@ -8,10 +8,6 @@
 - Office: McGill Hall, 232 (_By Appointment Only_).
 - Appointment Link / Virtual Office Hours: [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/michael-musick" style="min-width:320px;height:1000px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
 
 ## Links
 
