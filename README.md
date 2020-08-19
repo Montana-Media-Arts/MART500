@@ -3,12 +3,15 @@
 
 ## Professor/Instructor
 
-- [Dr. Michael Musick](http://michaelmusick.com)
+- [Michael Musick, PhD](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=mart500%20Question).
-- Office: McGill Hall, 232.
-- Office Hours:
-    - Wednesdays: 12:00pm - 1:00pm
-    - Thursdays: 11:30am - 1:30pm
+- Office: McGill Hall, 232 (_By Appointment Only_).
+- Appointment Link / Virtual Office Hours: [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/michael-musick" style="min-width:320px;height:1000px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
 
 ## Links
 
@@ -23,7 +26,7 @@ This course explores the relationship between aesthetics and the emerging capabi
 This course will focus primarily on art-based research methods and how they can be used within the artistic process.
 
 
-<!--
+
 
 ---
 
@@ -47,18 +50,32 @@ This course will focus primarily on art-based research methods and how they can 
 
 
 
-
-
 ## Week 1
 
 - [Course Overview](./Content/week1/)
 - [Syllabus](./Syllabus.md)
 - Central Questions to the Course
+  - What will this course be about?
+  - What is research?
+
 
 ## Week 2
 
-_No class for MLK Remebrance Day_
+- Come prepared to discuss;
+  - Research as a concept
+  - The various types of research
+  - How research has been a part of your own creative practice
+  - How research may be utilized in conjunction with or as creative practice
+- Additionally, I would like you to come prepared to discuss and show the following;
+  - What topic/s might you be interested in pursuing within this course?
+  - An example of your work/art that is most related to, similar, or in the direction of the direction you are contemplating;
 
+**Reading:**
+- - [OECD (2015), _Frascati Manual 2015: Guidelines for Collecting and Reporting Data on Research and Experimental Development, The Measurement of Scientific, Technological and Innovation Activities_, OECD Publishing, Paris, https://doi.org/10.1787/9789264239012-en.](https://www.oecd.org/publications/frascati-manual-2015-9789264239012-en.htm)
+  - Read chapter 2
+- [Firestone, William A. “Meaning in Method: The Rhetoric of Quantitative and Qualitative Research.” Educational Researcher, vol. 16, no. 7, 1987, pp. 16–21. JSTOR, www.jstor.org/stable/1174685. Accessed 19 Aug. 2020.](https://www-jstor-org.weblib.lib.umt.edu:2443/stable/1174685)
+
+<!--
 
 ## Week 3
 
