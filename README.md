@@ -58,6 +58,11 @@ This course will focus primarily on art-based research methods and how they can 
   - What will this course be about?
   - What is research?
 
+**Reading:**
+
+- [OECD (2015), _Frascati Manual 2015: Guidelines for Collecting and Reporting Data on Research and Experimental Development, The Measurement of Scientific, Technological and Innovation Activities_, OECD Publishing, Paris, https://doi.org/10.1787/9789264239012-en.](https://www.oecd.org/publications/frascati-manual-2015-9789264239012-en.htm)
+- Read chapter 2
+- [Firestone, William A. “Meaning in Method: The Rhetoric of Quantitative and Qualitative Research.” Educational Researcher, vol. 16, no. 7, 1987, pp. 16–21. JSTOR, www.jstor.org/stable/1174685. Accessed 19 Aug. 2020.](https://www-jstor-org.weblib.lib.umt.edu:2443/stable/1174685)
 
 ## Week 2
 
@@ -66,16 +71,15 @@ This course will focus primarily on art-based research methods and how they can 
   - The various types of research
   - How research has been a part of your own creative practice
   - How research may be utilized in conjunction with or as creative practice
+  - The readings from Week 1 (See above).
 - Additionally, I would like you to come prepared to discuss and show the following;
   - What topic/s might you be interested in pursuing within this course?
   - An example of your work/art that is most related to, similar, or in the direction of the direction you are contemplating;
 
 **Reading:**
-- - [OECD (2015), _Frascati Manual 2015: Guidelines for Collecting and Reporting Data on Research and Experimental Development, The Measurement of Scientific, Technological and Innovation Activities_, OECD Publishing, Paris, https://doi.org/10.1787/9789264239012-en.](https://www.oecd.org/publications/frascati-manual-2015-9789264239012-en.htm)
-  - Read chapter 2
-- [Firestone, William A. “Meaning in Method: The Rhetoric of Quantitative and Qualitative Research.” Educational Researcher, vol. 16, no. 7, 1987, pp. 16–21. JSTOR, www.jstor.org/stable/1174685. Accessed 19 Aug. 2020.](https://www-jstor-org.weblib.lib.umt.edu:2443/stable/1174685)
 
-<!--
+- See week 3 for readings.
+
 
 ## Week 3
 
@@ -92,31 +96,38 @@ Discussion of;
 
 ## Week 4
 
-
+- Likely continue conversations from week 3.
+- Return to topic conversations about projects for your semester.
+- Formally introduce semester project specifications.
 
 ## Week 5
 
-
+- Presentation of Project Proposals
+- **DUE:** Project proposal write-ups and proof-of-concepts.
 
 ## Week 6
 
-
+- Reference Management Software and Tools
+- Project Check-ins
 
 ## Week 7
 
-
+- "Documenting creative practice as you go"
+- Backing-up data and the emotional woes of "data-loss"
 
 ## Week 8
 
-
+- Discussion of the role of "Journal and Conference Articles"
+- When is it right to submit to a Journal or Conference
 
 ## Week 9
 
-
+- **DUE:** Identification of journals or conferences that you want to submit this work to.
+- How to _actually use_ Microsoft Word
 
 ## Week 10
 
-
+- Formal progress presentation of projects
 
 ## Week 11
 
@@ -124,12 +135,25 @@ Discussion of;
 
 ## Week 12
 
-
+- Final group check-in about status of final project paper and art documentation/artifact.
+- All work due by next Wednesday, November 11th.
 
 ## Week 13
 
+**Final Projects (Paper and Art Documentation/Artifact) Due to Dr. Musick**
+
+_NO CLASS FOR VETERANS DAY_
 
 
 ## Week 14
+
+**Final Project Presentations**
+
+Class will take place on both:
+
+- Wednesday, November 18th, from 1pm-4pm
+  - (Last Day of Classes)
+- Thursday, November 19th, from 1:10pm-3:10pm
+  - Our scheduled finals time
 
 -->
