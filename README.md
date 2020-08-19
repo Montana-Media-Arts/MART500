@@ -127,7 +127,7 @@ Discussion of;
 
 ## Week 11
 
-
+TBD
 
 ## Week 12
 
@@ -151,5 +151,3 @@ Class will take place on both:
   - (Last Day of Classes)
 - Thursday, November 19th, from 1:10pm-3:10pm
   - Our scheduled finals time
-
--->
