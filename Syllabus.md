@@ -78,7 +78,7 @@ Through this course, students are expected to demonstrate an ability to:
 - Discuss technical and aesthetic concerns within experimental art and technologically mediated art.
 - Discuss the role of research in academia and art.
 - Employ art-based research methods.
-    - This includes;
+    - This includes:
         - Developing the capability to identify appropriate arts-based research methods.
         - Identifying and utilizing appropriate resources and tools.
 - Utilize modern research tools.
@@ -93,7 +93,7 @@ Due to the ongoing COVID-19 pandemic, the Department of Media Arts has moved all
 
 #### Course Recording
 
-This serves as an explicit deceleration that all courses may be recorded. These will then be available for further study at a later time by students of the course.
+This serves as an explicit declaration that all courses may be recorded. These will then be available for further study at a later time by students of the course.
 
 
 ## Course Websites
@@ -121,18 +121,18 @@ We will work through the following book as a class:
 #### Recommended Books
 
 - _Practice-Led Research, Research-Led Practice in the Creative Arts: Research Methods for the Arts and Humanities._ by Hazel Smith and Roger T. Dean, editors. Edinburgh University Press, 2009.
-	- We will read extensively from this book. But I will make it available via the library if you want.
+	- We will read extensively from this book. I will make it available via the library if you want.
 - _Academie X – Lessons in Art + Life_ by Marina Abramovic, Hans Ulrich Obrist, Dan Graham, and Studio Rags Media Collective (with content provided by 36 contemporary artists)
 	- We will seldom read from this book.
 
 
 ### Other Texts
 
-There will be a number of texts (conference/journal articles) assigned throughout the semester. When these are available freely through the UMT library you will be expected to acquire them yourselves. For articles that are not easily accessible via the library I will distribute those directly to you. A listing of possible articles is appended to the end of this syllabus document.
+There will be a number of texts (i.e., conference/journal articles) assigned throughout the semester. When these are available freely through the UMT library you will be expected to acquire them yourselves. For articles that are not easily accessible via the library, I will distribute those directly to you. A listing of possible articles is appended to the end of this syllabus document.
 
 ### Computer
 
-You will need access to a computer capable of running modern digital art software, including but not limited to; video editing, digital audio workstation (DAW), code, game engines, etc. This computer should also be capable of real-time signal processing through analog inputs and outputs (i.e., using an audio interface or web cam). Please leverage departmental resources whenever necessary.
+You will need access to a computer capable of running modern digital art software, including but not limited to: video editing, digital audio workstation (DAW), code, game engines, etc. This computer should also be capable of real-time signal processing through analog inputs and outputs (i.e., using an audio interface or web cam). Please leverage departmental resources whenever necessary.
 
 **NOTE:** As this course will be meeting via Zoom, you are also required to have a computer capable of handling bi-directional video conferencing. This should also include a capable microphone, speakers, camera, and visual display.
 
@@ -166,7 +166,6 @@ Student work and progress will be assessed through:
 - In-class discussions and critiques
     - You are expected to engage with class discussions about technical and artistic issues.
     - You are expected to engage with class discussions about outside readings, viewing, and/or listenings.
-    - This is mostly what this class will be about. So this part is critical.
     - You are expected to engage in class critique days.
 - Projects
     - You are expected to create at least one significant artwork this semester that emerges as a result of your engagement with an arts-based research method.
@@ -177,7 +176,7 @@ Student work and progress will be assessed through:
 - Written Exegeses
     - You are expected to produce a paper.
     - This is an exegetical document that comes out of your research practice and creative practice for this semester.
-    - This should be a paper appropriate for submission to a peer-reviewed academic conference or journal. (Regardless of whether the goal would be journal publication, oral presentation, or poster presentation)
+    - This should be a paper appropriate for submission to a peer-reviewed academic conference or journal (Regardless of whether the goal would be journal publication, oral presentation, or poster presentation).
 
 
 
@@ -249,15 +248,15 @@ When class sessions occur via zoom, you are still expected to be present in clas
 
 #### Zoom Etiquette
 
-When attending class via Zoom, you are expected to act similarly to how you would if attending in-person. This means;
+When attending class via Zoom, you are expected to act similarly to how you would if attending in-person. This means:
 
 - Students should plan on having their cameras on so that everyone in the class may engage with them via discussion. (The Instructor will inform students when it is appropriate or necessary for cameras to be off.)
-- Students should insure that they attend Zoom-based courses somewhere with a sufficiently fast and larger-enough-bandwidth internet connection so as to facilitate multi-directional video conferencing.
-- Students should insure that they are presentable visually.
-- Students should insure that their camera background is professional and free from unnecessary visual/audio distractions.
+- Students should ensure that they attend Zoom-based courses somewhere with a sufficiently fast and large-enough-bandwidth internet connection so as to facilitate multi-directional video conferencing.
+- Students should ensure that they are presentable visually.
+- Students should ensure that their camera background is professional and free from unnecessary visual/audio distractions.
 - Students should position themselves so that they do not need to constantly move around their space with their camera.
-- Students should insure sufficient lighting for their faces, so that everyone can engage with them.
-- Students should insure that the quality of their audio (both microphone and speakers) are sufficient to facilitate high-quality conversation.
+- Students should ensure sufficient lighting for their faces, so that everyone can engage with them.
+- Students should ensure that the quality of their audio (both microphone and speakers) are sufficient to facilitate high-quality conversation.
 
 
 
@@ -310,7 +309,7 @@ The University of Montana assures equal access to instruction through collaborat
 ## COVID-19 Specific Information
 
 
-- Mask use is required if entering a classroom or if meeting with members of the University Community for official buisness.
+- Mask use is required if entering a classroom or if meeting with members of the University Community for official business.
 - Each student is provided with a cleaning kit.  The expectation is that students will clean their personal space when they arrive for class or meetings, and before they leave the room.
 - University spaces and rooms may have one-way entrances / exits to minimize crowding. Please follow these directions.
 - Stay home if you feel sick and/or if exhibiting COVID-19 symptoms. Please cancel meetings.
