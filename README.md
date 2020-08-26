@@ -88,13 +88,35 @@ Discussion of;
 - Skains, R. Lyle. “Creative Practice as Research: Discourse on Methodology.” Media Practice and Education 19.1 (2018): 82–97. Web.
     - https://www.tandfonline.com/doi/full/10.1080/14682753.2017.1362175
 
+**Project Work**
+
+In addition to our discussion of the above, I would like you do the following with respect to your semester-length creative practice and research project.
+
+- Contemplate further a specific creative practices or artistic project that you want to dive into this semester.
+- After determining a specific direction, please start to constrain the scope of this project, such that it is possible to actually complete by the end of the semester.
+  - You are required to submit a complete artistic project or output from creative process by the end of the term.
+- Come prepared to informally discuss and present on the project you have in mind.
+- Please also come prepared to briefly discuss open problems that will be inherent in your work for this project this semester.
+- In addition, I want you to start informally completing a literature review on the specific topic;
+  - What have other people done that is similar or the same
+  - What have other people written about around this topic
+  - _We will discuss literature reviews formally in two weeks_.
+
 ## Week 4
 
 - Likely continue conversations from week 3.
 - Return to topic conversations about projects for your semester.
+- What is a literature review?
 - Formally introduce semester project specifications.
 
 Discussion of;
+
+- Barrett, Estelle, and Barbara Bolt, editors. Practice as Research: Approaches to Creative Arts Enquiry. I.B.Tauris, 2010.
+    - Chapter 10
+    - Pages 186-187
+    - Pages 188-190
+- Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. Print.
+    - Chapter 3
 
 - Candy, Linda, and Ernest Edmonds. “Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line.” Leonardo 51.1 (2018): 63–69. Web.
     - https://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01471
