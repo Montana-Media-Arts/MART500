@@ -70,7 +70,7 @@ This course will focus primarily on art-based research methods and how they can 
   - The readings from Week 1 (See above).
 - Additionally, I would like you to come prepared to discuss and show the following;
   - What topic/s might you be interested in pursuing within this course?
-  - An example of your work/art that is most related to, similar, or in the direction of the direction you are contemplating;
+  - An example of your work/art that is most related to, similar, or in the direction you are contemplating;
 
 **Reading:**
 
@@ -81,20 +81,24 @@ This course will focus primarily on art-based research methods and how they can 
 
 Discussion of;
 
-- Skains, R. Lyle. “Creative Practice as Research: Discourse on Methodology.” Media Practice and Education 19.1 (2018): 82–97. Web.
-    - https://www.tandfonline.com/doi/full/10.1080/14682753.2017.1362175
-- Candy, Linda, and Ernest Edmonds. “Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line.” Leonardo 51.1 (2018): 63–69. Web.
-    - https://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01471
 - "Introduction" from Barrett, Estelle, and Barbara Bolt, eds. Practice as Research: Approaches to Creative Arts Enquiry. I.B.Tauris, 2010. Web. 14 Jan. 2019.
     - emailed as PDF
 - “I. Introduction: Practice-led Research, Research-led Practice Towards the Iterative Cyclic Web” from Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. Print.
     - emailed as PDF
+- Skains, R. Lyle. “Creative Practice as Research: Discourse on Methodology.” Media Practice and Education 19.1 (2018): 82–97. Web.
+    - https://www.tandfonline.com/doi/full/10.1080/14682753.2017.1362175
 
 ## Week 4
 
 - Likely continue conversations from week 3.
 - Return to topic conversations about projects for your semester.
 - Formally introduce semester project specifications.
+
+Discussion of;
+
+- Candy, Linda, and Ernest Edmonds. “Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line.” Leonardo 51.1 (2018): 63–69. Web.
+    - https://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01471
+
 
 ## Week 5
 
