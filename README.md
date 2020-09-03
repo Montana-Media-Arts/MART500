@@ -104,22 +104,24 @@ In addition to our discussion of the above, I would like you do the following wi
 
 ## Week 4
 
-- Likely continue conversations from week 3.
 - Return to topic conversations about projects for your semester.
-- What is a literature review?
+    - Please continue defining the project. 
+        - You should spend some time this week writing down the specifics of your project.
+    - Define the "open problems" or questions that will relate to, drive, or help define your project.
+        - Bring these as a written document to class.
+    - Additionally, you should start to "conduct background research" in order to understand the area of your topic and domain.
+        - The goal of this is to find everything that has been written or created that relates to or ic potentially closelt related to your topic area.
+- Discussion
+    - What is a literature review?
+    - What does it mean to become a domain expert? 
 - Formally introduce semester project specifications.
 
 Discussion of;
 
 - Barrett, Estelle, and Barbara Bolt, editors. Practice as Research: Approaches to Creative Arts Enquiry. I.B.Tauris, 2010.
     - Chapter 10
-    - Pages 186-187
-    - Pages 188-190
 - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. Print.
     - Chapter 3
-
-- Candy, Linda, and Ernest Edmonds. “Practice-Based Research in the Creative Arts: Foundations and Futures from the Front Line.” Leonardo 51.1 (2018): 63–69. Web.
-    - https://www.mitpressjournals.org/doi/abs/10.1162/LEON_a_01471
 
 
 ## Week 5
