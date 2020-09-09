@@ -110,7 +110,7 @@ In addition to our discussion of the above, I would like you do the following wi
     - Define the "open problems" or questions that will relate to, drive, or help define your project.
         - Bring these as a written document to class.
     - Additionally, you should start to "conduct background research" in order to understand the area of your topic and domain.
-        - The goal of this is to find everything that has been written or created that relates to or ic potentially closelt related to your topic area.
+        - The goal of this is to find everything that has been written or created that relates to or is potentially closely related to your topic area.
 - Discussion
     - What is a literature review?
     - What does it mean to become a domain expert? 
@@ -128,26 +128,38 @@ Discussion of;
 
 - Presentation of Project Proposals
 - **DUE:** Project proposal write-ups and proof-of-concepts.
+- Discussion of:
+    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
+    - Chapter 7
+    - Chapter 11
 
 ## Week 6
 
+- Discussion of:
+    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. 
+    - Chapter 12
+    - Chapter 13
 - Reference Management Software and Tools
 - Project Check-ins
 
+
 ## Week 7
 
-- "Documenting creative practice as you go"
-- Backing-up data and the emotional woes of "data-loss"
+- How to _actually use_ Microsoft Word
+- Discussion: Backing-up data and the emotional woes of "data-loss"
+- Discussion of the role of "Journal and Conference Articles"
+- When is it right to submit to a Journal or Conference
+- Project Check-ins
 
 ## Week 8
 
-- Discussion of the role of "Journal and Conference Articles"
-- When is it right to submit to a Journal or Conference
+- **DUE:** Literature Reviews and Annotated Bibliographies
+- **DUE:** Identification of journals or conferences that you want to submit this work to.
 
 ## Week 9
 
-- **DUE:** Identification of journals or conferences that you want to submit this work to.
-- How to _actually use_ Microsoft Word
+
+
 
 ## Week 10
 
