@@ -173,7 +173,7 @@ Student work and progress will be assessed through:
     - This is your opportunity to synthesis creative concerns and technical concerns from multiple weeks of content into a larger project.
 - Project Documentation
 	- Each project will require project documentation, including; a demo video, short written description, and supporting supplementary material where appropriate (script, score, schematics, etc.).
-- Written Exegeses
+- Written Exegesis
     - You are expected to produce a paper.
     - This is an exegetical document that comes out of your research practice and creative practice for this semester.
     - This should be a paper appropriate for submission to a peer-reviewed academic conference or journal (Regardless of whether the goal would be journal publication, oral presentation, or poster presentation).
