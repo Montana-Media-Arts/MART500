@@ -128,17 +128,15 @@ Discussion of;
 
 - Presentation of Project Proposals
 - **DUE:** Project proposal write-ups and proof-of-concepts.
-- Discussion of:
-    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
-    - Chapter 7
-    - Chapter 11
+
 
 ## Week 6
 
 - Discussion of:
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. 
-    - Chapter 12
-    - Chapter 13
+    - Chapter 7
+    - Chapter 9
+    - Chapter 11
 - Reference Management Software and Tools
 - Project Check-ins
 
