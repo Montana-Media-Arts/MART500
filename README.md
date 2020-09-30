@@ -105,7 +105,7 @@ In addition to our discussion of the above, I would like you do the following wi
 ## Week 4
 
 - Return to topic conversations about projects for your semester.
-    - Please continue defining the project. 
+    - Please continue defining the project.
         - You should spend some time this week writing down the specifics of your project.
     - Define the "open problems" or questions that will relate to, drive, or help define your project.
         - Bring these as a written document to class.
@@ -113,7 +113,7 @@ In addition to our discussion of the above, I would like you do the following wi
         - The goal of this is to find everything that has been written or created that relates to or is potentially closely related to your topic area.
 - Discussion
     - What is a literature review?
-    - What does it mean to become a domain expert? 
+    - What does it mean to become a domain expert?
 - Formally introduce semester project specifications.
 
 Discussion of;
@@ -136,7 +136,7 @@ Discussion of;
 ## Week 6
 
 - Discussion of:
-    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. 
+    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
     - Chapter 12
     - Chapter 13
 - Reference Management Software and Tools
@@ -153,11 +153,12 @@ Discussion of;
 
 ## Week 8
 
-- **DUE:** Literature Reviews and Annotated Bibliographies
+- **DUE:** Annotated Bibliographies
 - **DUE:** Identification of journals or conferences that you want to submit this work to.
 
 ## Week 9
 
+- **DUE:** Literature Reviews
 
 
 
