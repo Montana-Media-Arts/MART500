@@ -152,6 +152,7 @@ Discussion of;
 ## Week 8
 
 - **DUE:** Annotated Bibliographies
+	- Please feel free to use the word template. [docx template](https://github.com/Montana-Media-Arts/MART500/raw/master/Resources/bib-template.docx)
 - **DUE:** Identification of journals or conferences that you want to submit this work to.
 
 ## Week 9
