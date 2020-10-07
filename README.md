@@ -154,15 +154,18 @@ Discussion of;
 - **DUE:** Annotated Bibliographies
 	- Please feel free to use the word template. [docx template](https://github.com/Montana-Media-Arts/MART500/raw/master/Resources/bib-template.docx)
 - **DUE:** Identification of journals or conferences that you want to submit this work to.
+- Work on your projects during class time. No formal meeting.
 
 ## Week 9
 
-- **DUE:** Literature Reviews
+- Discussion of literature reviews
+- Discussion of end of term
 
 
 
 ## Week 10
 
+- **DUE:** Literature Reviews
 - Formal progress presentation of projects
 
 ## Week 11
