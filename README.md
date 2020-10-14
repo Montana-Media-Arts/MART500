@@ -156,6 +156,7 @@ Discussion of;
 - **DUE:** Identification of journals or conferences that you want to submit this work to.
 - Work on your projects during class time. No formal meeting.
 
+
 ## Week 9
 
 - Discussion of literature reviews
@@ -165,12 +166,16 @@ Discussion of;
 
 ## Week 10
 
-- **DUE:** Literature Reviews
-- Formal progress presentation of projects
+- Discussion of:
+	- Musick, 2018.
+	- Boren & Musick, 2018.
+- **DUE:** Formal progress presentation of projects
+
 
 ## Week 11
 
-TBD
+- **DUE:** Literature Reviews
+
 
 ## Week 12
 
@@ -194,3 +199,4 @@ Class will take place on both:
   - (Last Day of Classes)
 - Thursday, November 19th, from 1:10pm-3:10pm
   - Our scheduled finals time
+  - _Will Likely Not Need_
