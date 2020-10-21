@@ -166,16 +166,20 @@ Discussion of;
 
 ## Week 10
 
+- Progress Updates
 - Discussion of:
 	- Musick, 2018.
 	- Boren & Musick, 2018.
-- **DUE:** Formal progress presentation of projects
+
 
 
 ## Week 11
 
-- Progress Updates
+- **DUE:** Formal progress presentation of projects
+	- Show & Tell of the creative piece, WHEREVER it is at
+	- Explicit discussion of timeline to finish the semester out. 
 - Discussion of _Paper Talk_
+	- Watch video talk first from _Musick, 2018. ICMC_
 - **(Optional) DUE:** First portion of Paper:
 	- Introduction
 	- Literature Reviews
@@ -185,11 +189,18 @@ Discussion of;
 ## Week 12
 
 - Final group check-in about status of final project paper and art documentation/artifact.
+- **(Optional) DUE:** First portion of Paper:
+	- Introduction
+	- Literature Reviews
+	- As much else as you would like to include...
 - All work due by next Wednesday, November 11th.
+
 
 ## Week 13
 
 **Final Projects (Paper and Art Documentation/Artifact) Due to Dr. Musick**
+
+Due by, Sunday, November 15th @ midnight.
 
 _NO CLASS FOR VETERANS DAY_
 
