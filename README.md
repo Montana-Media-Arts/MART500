@@ -1,4 +1,4 @@
-# Core Research: Digital Technology in the Arts (MART 500)  |  Spring 2019
+# Core Research: Digital Technology in the Arts (MART 500)  |  Fall 2020
 
 
 ## Professor/Instructor
