@@ -6,7 +6,11 @@ For your final project, you are to submit the following;
 
 1. Documentation of your creative/artistic product/artifact
 2. A paper, representing your work and research, utilizing practice-based research methods. 
-3. A formal paper talk, presented during our finals time slot
+3. A cover page, including;
+	- Project Title
+	- List of deliverables (i.e. paper, video, audio file, website, etc.)
+	- Short description of the template and where it came from (i.e. what conference or journal)
+4. A formal paper talk, presented during our finals time slot (Due 1 week later)
 
 ## Due Dates
 

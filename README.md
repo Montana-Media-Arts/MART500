@@ -174,6 +174,8 @@ Discussion of;
 
 ## Week 11
 
+- Progress Updates
+- Discussion of _Paper Talk_
 - **(Optional) DUE:** First portion of Paper:
 	- Introduction
 	- Literature Reviews
