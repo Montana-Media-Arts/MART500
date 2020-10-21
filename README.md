@@ -174,7 +174,10 @@ Discussion of;
 
 ## Week 11
 
-- **DUE:** Literature Reviews
+- **(Optional) DUE:** First portion of Paper:
+	- Introduction
+	- Literature Reviews
+	- As much else as you would like to include...
 
 
 ## Week 12
