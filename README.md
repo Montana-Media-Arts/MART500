@@ -193,7 +193,7 @@ Discussion of;
 	- Introduction
 	- Literature Reviews
 	- As much else as you would like to include...
-- All work due by next Wednesday, November 11th.
+- All work due by Sunday, November 15th @ midnight.
 
 
 ## Week 13
@@ -201,6 +201,9 @@ Discussion of;
 **Final Projects (Paper and Art Documentation/Artifact) Due to Dr. Musick**
 
 Due by, Sunday, November 15th @ midnight.
+
+- Please upload a documentation link and PDF version of the paper, to the Moodle Submission Forum. 
+- After uploading, please read and watch your colleagues work's by class time Wednesday.
 
 _NO CLASS FOR VETERANS DAY_
 
