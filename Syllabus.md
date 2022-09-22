@@ -1,6 +1,6 @@
 
 
-# Core Research: Digital Technology in the Arts (MART 500) | Syllabus
+# Core Research: Practice-Led Research in Arts and Technology (MART 500) | Syllabus
 
 
 Date modified: Aug-18-2020
@@ -45,11 +45,11 @@ Date modified: Aug-18-2020
 
 ## Basic Info
 
-- Name: Core Research: Digital Technology in the Arts
+- Name: Core Research: Practice-Led Research in Arts and Technology
 - Course Number: MART 500
-- CRN: 75076
+- CRN:
 - Credits: 4
-- Location: Synchronous Remote Delivery
+- Location: McGill 228
 - Date/Time: W, 1:00pm-4:00pm
 - University Unit: [School of Visual and Media Arts (SVMA)](https://www.umt.edu/svma/), [College of the Arts and Media (CAM)](https://www.umt.edu/umarts/), [University of Montana](https://www.umt.edu)
 
@@ -58,18 +58,13 @@ Date modified: Aug-18-2020
 
 - [Michael Musick, PhD](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=mart500%20Question).
-- Office: McGill Hall, 232 (_By Appointment Only_).
+- Office: McGill Hall, 233 (_By Appointment Only_).
 - Appointment Link / Virtual Office Hours: [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
 
 ## Description
 
-_Revised:_
+This course explores the relationship between aesthetics and the emerging capabilities of arts and technology. This relationship will be explored through consideration of the reciprocal relationship between research and art. Students will be pushed to explore how practice-led research, research-led practice, and practice-based research methods may influence their own creative practice. They will also consider how creative practice and associated research methods create new novel knowledge, and how this may contribute individual communities and the world at large.
 
-This course explores the relationship between aesthetics and the emerging capabilities of digital technology. This relationship will be explored through consideration of the reciprocal relationship between research and art. Students will be pushed to explore how this can influence their own practice and how arts-based research methods may allow their artistic practice to make a greater contribution to various communities.
-
-_Published:_
-
-This course explores the relationship between aesthetics and the emerging capabilities of digital technology. It will cover the historical relationship between science and art up to the end of the 20th century and examine the methodology of critical artistic applications.
 
 ## Objectives & Student Learning Outcomes
 
@@ -79,17 +74,16 @@ Through this course, students are expected to demonstrate an ability to:
 - Discuss the role of research in academia and art.
 - Employ art-based research methods.
     - This includes:
-        - Developing the capability to identify appropriate arts-based research methods.
+		    - Developing an understanding of the difference between:
+				    - Practice-led research and research-led practice
+				    - Practice-based research
+        - Developing the capability to identify appropriate arts-based research sub-methods.
         - Identifying and utilizing appropriate resources and tools.
 - Utilize modern research tools.
 - Analyze and validate peer research.
 - Create artwork that is intimately connected with arts-based research.
-- Create a written article resulting from arts-based research.
+- Create a written article resulting from original and novel arts-based research.
 
-
-## Course Modality/Format
-
-Due to the ongoing COVID-19 pandemic, the Department of Media Arts has moved all of our classes to online/asynchronous or remote/synchronous for Fall 2020. As a result, this course will be delivered via a remote/synchronous modality. We will still meet at the specified time above, via Zoom. Additional materials will be available via the course Moodle and potentially a github.com-based site.
 
 #### Course Recording
 
@@ -105,7 +99,7 @@ This serves as an explicit declaration that all courses may be recorded. These w
 
 ## Pre-Requisites
 
-There are no pre-reqs for this course. This course is restricted to MFA students.
+There are no pre-reqs for this course. This course is restricted to graduate students in the College of the Arts & Media.
 
 
 ## Books, Supplies, & Technology
@@ -292,6 +286,8 @@ For found media, you are also expected to cite the media in your documentation f
 
 This course operates under a no censorship policy, and you should feel free to experiment with challenging topics in your projects. That said - if you submit work with violent or sexually explicit themes, containing hate speech, racial slurs or other sensitive subject matter, I might contact you to request more background information on your choices.
 
+Art scholarship and art practice along with teaching and learning involve a critical exploration of ideas, theories, art-making practices, and art movements that encompass such things as the human body, sexuality, race, gender, religions, and cultures. This course can touch upon any of the above categories with an expectation that students will actively participate in all course assignments, discussions, and tests. Given this information, it is the student’s obligation to determine that the requirements conflict with his or her core beliefs. If the student determines that there is a conflict with his or her beliefs, one of the following actions needs to be taken: 1) drop the class before the last day to drop a course without penalty; 2) meet with the instructor within the first week of classes to determine if an accommodation can be made.  (Note, faculty, are not required to grant content accommodations.)
+
 
 ## Be Kind
 
@@ -302,24 +298,19 @@ Be respectful to each other, help each other, and be considerate in your communi
 Your experience in this class is important to me.  I welcome individuals of all backgrounds, beliefs, ethnicities, genders, gender identities, gender expressions, races, national origins, religious affiliations, sexual orientations, ages, abilities, and other visible and nonvisible differences. Please know that I will gladly honor your request to address you by an alternate name or gender pronoun.  All members of this class are expected to contribute to a welcoming, respectful, and inclusive environment for every other member of this class.
 
 
-## Students with Disabilities
+## Student Support Resources
 
-The University of Montana assures equal access to instruction through collaboration between students with disabilities, instructors, and Disability Services for Students. Students with disabilities are encouraged to plan ahead and can contact [Disability Services for Students (DSS)](http://www.umt.edu/dss/). If you think you may have a disability adversely affecting your academic performance, and you have not already registered with Disability Services, please contact Disability Services in Lommasson Center 154, or call (406)243-2243. I will work with you and Disability Services to provide an appropriate modification, that does not fundamentally alter the academic standards of the course.
+### Disability and Equity Accommodations
 
-## COVID-19 Specific Information
+The University of Montana assures equal access to instruction through collaboration between students with disabilities, instructors, and the Office for Disability Equity (ODE). If you anticipate or experience barriers based on disability, please contact the ODE at: (406) 243-2243, [ode@umontana.edu](mailto:ode@umontana.edu), or visit [www.umt.edu/disability](www.umt.edu/disability) for more information. Retroactive accommodation requests will not be honored, so please, do not delay. As your instructor, I will work with you and the ODE to implement an effective accommodation, and you are welcome to contact me privately if you wish.
 
+### The Writing and Public Speaking Center
 
-- Mask use is required if entering a classroom or if meeting with members of the University Community for official business.
-- Each student is provided with a cleaning kit.  The expectation is that students will clean their personal space when they arrive for class or meetings, and before they leave the room.
-- University spaces and rooms may have one-way entrances / exits to minimize crowding. Please follow these directions.
-- Stay home if you feel sick and/or if exhibiting COVID-19 symptoms. Please cancel meetings.
-- If you are sick or displaying symptoms, please contact the Curry Health Center at (406) 243-4330.
-- If we have a meeting and you are sick or displaying symptoms, I will contact the Curry Health Center and also ask that we reschedule the meeting.
-- Up-to-Date COVID-19 Information from the University of Montana
-	- UM Coronavirus Website:  [https://www.umt.edu/coronavirus](https://www.umt.edu/coronavirus)
-	- UM COVID-19 Fall 2020 website:  [https://www.umt.edu/coronavirus/fall2020.php](https://www.umt.edu/coronavirus/fall2020.php)
+The Writing and Public Speaking Center provides one-on-one tutoring to students at all levels and at any time in the writing process. Visit now. Visit often. They're ready when you are. [www.umt.edu/writingcenter](www.umt.edu/writingcenter).
 
-As a final reminder, we (The University Community) strongly encourage you to remain vigilant outside the classroom in mitigating the spread of COVID-19. The only way for this semester to be successful and to maintain minimal interruptions to the our educational mission is to insure the safety and health of all members of our community. Please remember that all decisions and choices made during this time hold this idea above all others; that the safety and health of our entire community is our most important goal.
+### Mental Health and Wellbeing Policy
+
+The University of Montana is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, visit https://www.umt.edu/diversity/resources/mental-health.php
 
 #### In Case the Instructor Becomes Sick
 
