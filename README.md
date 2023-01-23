@@ -1,11 +1,11 @@
-# Core Research: Digital Technology in the Arts (MART 500)  |  Fall 2020
+# Core Research: Digital Technology in the Arts (MART 500)  |  Spring 2023
 
 
 ## Professor/Instructor
 
 - [Michael Musick, PhD](http://michaelmusick.com)
 - E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu?subject=mart500%20Question).
-- Office: McGill Hall, 232 (_By Appointment Only_).
+- Office: McGill Hall, 233 (_By Appointment Only_).
 - Appointment Link / Virtual Office Hours: [calendly.com/michael-musick](https://calendly.com/michael-musick) - Please select a meeting time from availability via the Calendly web service.
 
 
