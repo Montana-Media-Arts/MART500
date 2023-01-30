@@ -76,6 +76,10 @@ This course will focus primarily on art-based research methods and how they can 
 
 - See week 3 for readings.
 
+**_Optional Readings:_**
+
+- [Phenomenology - https://plato.stanford.edu/entries/phenomenology/#WhatPhen](https://plato.stanford.edu/entries/phenomenology/)
+
 
 ## Week 3
 
