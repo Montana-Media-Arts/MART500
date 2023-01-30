@@ -96,10 +96,10 @@ Discussion of;
 
 In addition to our discussion of the above, I would like you do the following with respect to your semester-length creative practice and research project.
 
-- Contemplate further a specific creative practices or artistic project that you want to dive into this semester.
+- Contemplate further a specific creative practice or artistic project that you want to dive into this semester.
 - After determining a specific direction, please start to constrain the scope of this project, such that it is possible to actually complete by the end of the semester.
   - You are required to submit a complete artistic project or output from creative process by the end of the term.
-- Come prepared to informally discuss and present on the project you have in mind.
+- Come prepared to **informally** discuss and present on the project you have in mind.
 - Please also come prepared to briefly discuss open problems that will be inherent in your work for this project this semester.
 - In addition, I want you to start informally completing a literature review on the specific topic;
   - What have other people done that is similar or the same
