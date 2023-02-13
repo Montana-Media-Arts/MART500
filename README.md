@@ -130,6 +130,9 @@ In addition to our discussion of the above, I would like you do the following wi
 
 - **In-Progress Work:** Project proposal write-ups.
 
+- Topics:
+	- Literature Review - _What is it?_
+
 Discussion of;
 
 - Barrett, Estelle, and Barbara Bolt, editors. Practice as Research: Approaches to Creative Arts Enquiry. I.B.Tauris, 2010.
