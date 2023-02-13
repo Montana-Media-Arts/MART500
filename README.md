@@ -124,21 +124,20 @@ In addition to our discussion of the above, I would like you do the following wi
     - What does it mean to become a domain expert?
 - Formally introduce semester project specifications.
 
-Discussion of;
-
-- Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. Print.
-    - Chapter 3
 
 
 ## Week 5
 
-- Presentation of Project Proposals
-- **DUE:** Project proposal write-ups and proof-of-concepts.
+- **In-Progress Work:** Project proposal write-ups and proof-of-concepts.
 
 Discussion of;
 
 - Barrett, Estelle, and Barbara Bolt, editors. Practice as Research: Approaches to Creative Arts Enquiry. I.B.Tauris, 2010.
     - Chapter 10
+- Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009. Print.
+    - Chapter 3
+
+
 
 
 ## Week 6
