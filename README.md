@@ -128,7 +128,7 @@ In addition to our discussion of the above, I would like you do the following wi
 
 ## Week 5
 
-- **In-Progress Work:** Project proposal write-ups and proof-of-concepts.
+- **In-Progress Work:** Project proposal write-ups.
 
 Discussion of;
 
@@ -141,6 +141,8 @@ Discussion of;
 
 
 ## Week 6
+
+- **DUE:** Project proposal write-ups.
 
 - Discussion of:
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
