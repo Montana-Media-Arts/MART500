@@ -145,10 +145,13 @@ Discussion of;
 
 ## Week 6
 
-- **In-Progress:** Naive literature review
+**In-Progress:** Naive literature review
 	- Find related work, through the means you would have traditionally utilized.
+	- Find information on "what a lit review is"
 
-- **DUE:** Project proposal write-ups.
+**DUE:** Project proposal write-ups.
+
+
 
 - Kate Zoellner
 	- Mansfield Reference Librarian
