@@ -145,8 +145,15 @@ Discussion of;
 
 ## Week 6
 
+- **In-Progress:** Naive literature review
+	- Find related work, through the means you would have traditionally utilized.
+
 - **DUE:** Project proposal write-ups.
 
+- Kate Zoellner
+	- Mansfield Reference Librarian
+		- Literature Reviews
+		- The Library tools for finding related work
 - Discussion of:
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
     - Chapter 7
