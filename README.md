@@ -161,7 +161,6 @@ Discussion of;
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
     - Chapter 7
     - Chapter 9
-    - Chapter 11
 - Reference Management Software and Tools
 - Project Check-ins
 
@@ -173,6 +172,12 @@ Discussion of;
 - Discussion of the role of "Journal and Conference Articles"
 - When is it right to submit to a Journal or Conference
 - Project Check-ins
+
+
+
+- Discussion of:
+    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
+     - Chapter 11
 
 ## Week 8
 
