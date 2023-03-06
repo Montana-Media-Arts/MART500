@@ -161,14 +161,27 @@ Discussion of;
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
 	    - Chapter 7
 	    - Chapter 9
-    - Musick, Dissertation; Lit Review.
-- Reference Management Software and Tools
 - Lloyd and Locke; A2RU Recap
 - Project Check-ins
 
 
 ## Week 7
 
+**Due:**
+
+Analysis of someone else's Lit Review / Related Work / Background Section
+
+- For one of the sources you have identified, that has a lit review, please read it in detail.
+- In a short document (1-3 pages), please analyze and discuss what they are doing, why it is important for their larger article, how they dealt with creating relationships amongst the sources as well as relating back to their work?
+	
+
+**In Class:**
+
+- Discussion of;
+    - Musick, Dissertation; Lit Review chapter.
+    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
+     	- Chapter 11
+- Reference Management Software and Tools
 - How to _actually use_ Microsoft Word
 - Discussion: Backing-up data and the emotional woes of "data-loss"
 - Discussion of the role of "Journal and Conference Articles"
@@ -177,9 +190,7 @@ Discussion of;
 
 
 
-- Discussion of:
-    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
-     - Chapter 11
+
 
 ## Week 8
 
