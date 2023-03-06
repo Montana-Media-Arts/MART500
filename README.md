@@ -173,6 +173,10 @@ Analysis of someone else's Lit Review / Related Work / Background Section
 
 - For one of the sources you have identified, that has a lit review, please read it in detail.
 - In a short document (1-3 pages), please analyze and discuss what they are doing, why it is important for their larger article, how they dealt with creating relationships amongst the sources as well as relating back to their work?
+
+Citation list of current literature.
+
+- This can be loose in formatting. 
 	
 
 **In Class:**
