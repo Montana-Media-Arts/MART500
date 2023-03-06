@@ -178,7 +178,7 @@ Analysis of someone else's Lit Review / Related Work / Background Section
 **In Class:**
 
 - Discussion of;
-    - Musick, Dissertation; Lit Review chapter.
+    - Musick, Dissertation; Lit Review chapter (2 & 3).
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
      	- Chapter 11
 - Reference Management Software and Tools
