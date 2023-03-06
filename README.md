@@ -192,6 +192,7 @@ Citation list of current literature.
 - When is it right to submit to a Journal or Conference
 - Project Check-ins
 
+Make time for:
 
 - Discuss the role of grad school + art school, in optomizing where you are going and what your career will look like.
 
