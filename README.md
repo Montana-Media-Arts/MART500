@@ -159,9 +159,11 @@ Discussion of;
 		- The Library tools for finding related work
 - Discussion of:
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
-    - Chapter 7
-    - Chapter 9
+	    - Chapter 7
+	    - Chapter 9
+    - Musick, Dissertation; Lit Review.
 - Reference Management Software and Tools
+- Lloyd and Locke; A2RU Recap
 - Project Check-ins
 
 
