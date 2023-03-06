@@ -193,6 +193,9 @@ Citation list of current literature.
 - Project Check-ins
 
 
+- Discuss the role of grad school + art school, in optomizing where you are going and what your career will look like.
+
+
 
 
 
