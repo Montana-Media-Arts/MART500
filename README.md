@@ -186,16 +186,40 @@ Citation list of current literature.
     - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
      	- Chapter 11
 - Reference Management Software and Tools
-- How to _actually use_ Microsoft Word
 - Discussion: Backing-up data and the emotional woes of "data-loss"
 - Discussion of the role of "Journal and Conference Articles"
-- When is it right to submit to a Journal or Conference
 - Project Check-ins
+
+
+
+
+
+## Week 8
+
+**In Class:**
+
+- How to _actually use_ Microsoft Word
+- When is it right to submit to a Journal or Conference
+	- Please bring the following to class: Indentification of a conference, journal, or festival, that seems relavent to your work, and to which you would like to be a part of the community. 
+- Project Check-ins
+- Discussion of;
+    - Smith, Hazel, and Roger T Dean. Practice-Led Research, Research-Led Practice in the Creative Arts. Edinburgh: Edinburgh University Press, 2009.
+     	- Chapter 11
+
+
+Keep working on:
+
+- First Portion of Paper
+	- Intro, Lit Review, Methods
+	- These are due April 3rd
+- Creative Projects
+	- Go, go go go!!!!!
+
 
 Make time for:
 
 - Discuss the role of grad school + art school, in optomizing where you are going and what your career will look like.
-
+- Discuss the spaces (i.e. grad lab) in McGill, as well as space needs to be successful as MFA students. 
 
 
 
