@@ -232,61 +232,52 @@ Make time for:
 
 ## Week 9
 
-- Discussion of paper first draft
-- Discussion of end of term
+_April 10th, 2023_
+
+- check-ins?
+- Kristin, Shanel, and Kate propose how they will present creative project
 
 
 
 ## Week 10
 
-- Progress Updates
+_April 17th, 2023_
+
+- Progress Updates / check-ins
+- Discussion of Data Anaylsis and How to Finalize Papers
 
 
 
 
 ## Week 11
 
-- **DUE:** Formal progress presentation of projects
-	- Show & Tell of the creative piece, WHEREVER it is at
-	- Explicit discussion of timeline to finish the semester out. 
-- Discussion of _Paper Talk_
-	- Watch video talk first from _Musick, 2018. ICMC_
-- **(Optional) DUE:** First portion of Paper:
-	- Introduction
-	- Literature Reviews
-	- As much else as you would like to include...
+_April 24th, 2023_
+
+- **Crit Day:** Formal presentation of creative work.
+	- In class critique 
 
 
 ## Week 12
 
-- Final group check-in about status of final project paper and art documentation/artifact.
-- **(Optional) DUE:** First portion of Paper:
-	- Introduction
-	- Literature Reviews
-	- As much else as you would like to include...
-- All work due by Sunday, November 15th @ midnight.
+_May 1st, 2023_
+
+- **DUE:** Papers
+- Discussion of _Paper Talk_
+	- Watch video talk first from _Musick, 2018. ICMC_
 
 
-## Week 13
-
-**Final Projects (Paper and Art Documentation/Artifact) Due to Dr. Musick**
-
-Due by, Sunday, November 15th @ midnight.
-
-- Please upload a documentation link and PDF version of the paper, to the Moodle Submission Forum. 
-- After uploading, please read and watch your colleagues work's by class time Wednesday.
-
-_NO CLASS FOR VETERANS DAY_
 
 
-## Week 14
+## Week 13 - FINALS WEEK
 
-**Final Project Presentations**
+_Tuesday, May 9th @ 3:20PM_
 
-Class will take place on both:
+- **DUE:** Feedback to Colleagues
+- **DUE:** In class presentations of research and paper
 
-- Wednesday, November 18th, from 1pm-4pm
-  - (Last Day of Classes)
-- Thursday, November 19th, from 1:10pm-3:10pm
-  - Our scheduled finals time
-  - _Will Likely Not Need_
+
+## EXPO - Wednesday, May 10th
+
+@ Roxy Theater and Senior Center
+
+- Submission of works due: Monday, May 1st
