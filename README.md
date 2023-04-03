@@ -226,15 +226,13 @@ Make time for:
 
 ## Week 8
 
-- **DUE:** Annotated Bibliographies
-	- Please feel free to use the word template. [docx template](https://github.com/Montana-Media-Arts/MART500/raw/master/Resources/bib-template.docx)
-- **DUE:** Identification of journals or conferences that you want to submit this work to.
-- Work on your projects during class time. No formal meeting.
+- **DUE:** First draft chunk of papers
+
 
 
 ## Week 9
 
-- Discussion of literature reviews
+- Discussion of paper first draft
 - Discussion of end of term
 
 
@@ -242,9 +240,7 @@ Make time for:
 ## Week 10
 
 - Progress Updates
-- Discussion of:
-	- Musick, 2018.
-	- Boren & Musick, 2018.
+
 
 
 
